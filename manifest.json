@@ -1,0 +1,46 @@
+{
+   "name":"UBC Home",
+   "short_name":"UBC Home",
+   "start_url":"https://www.ubchome.com/",
+   "display":"standalone",
+   "background_color":"#fff",
+   "theme_color":"#EB6509",
+   "description":"UBC Home هو متجر تسوق عبر الانترنت، يقدم منتجات الأثاث والديكور والمفروشات من الصناعة التركية بإسعار تناسب كل منزل.",
+   "icons":[
+      {
+         "src":"https://www.ubchome.com/wp-content/uploads/2025/01/orginal-logo-01.png",
+         "sizes":"48x48",
+         "type":"image/png"
+      },
+      {
+         "src":"https://www.ubchome.com/wp-content/uploads/2025/01/orginal-logo-01.png",
+         "sizes":"72x72",
+         "type":"image/png"
+      },
+      {
+         "src":"https://www.ubchome.com/wp-content/uploads/2025/01/orginal-logo-01.png",
+         "sizes":"96x96",
+         "type":"image/png"
+      },
+      {
+         "src":"https://www.ubchome.com/wp-content/uploads/2025/01/orginal-logo-01.png",
+         "sizes":"144x144",
+         "type":"image/png"
+      },
+      {
+         "src":"https://www.ubchome.com/wp-content/uploads/2025/01/orginal-logo-01.png",
+         "sizes":"168x168",
+         "type":"image/png"
+      },
+      {
+         "src":"https://www.ubchome.com/wp-content/uploads/2025/01/orginal-logo-01.png",
+         "sizes":"192x192",
+         "type":"image/png"
+      },
+      {
+         "src":"https://www.ubchome.com/wp-content/uploads/2025/01/orginal-logo-01.png",
+         "sizes":"512x512",
+         "type":"image/png"
+      }
+   ]
+}
